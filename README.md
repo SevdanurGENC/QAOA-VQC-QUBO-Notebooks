@@ -39,4 +39,3 @@
 - LLM ajan araç tasarımı
 - Benchmark metrikleri ve yaygın hatalar tablosu
 
-**Notebooku Colab'da açmak için**: Drive'a yükleyin → Sağ tık → Google Colaboratory ile aç.
